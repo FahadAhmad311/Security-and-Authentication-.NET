@@ -1,0 +1,5 @@
+D:\Security and Authentication .NET\Token Based Authentication\TokenBasedAuthentication\obj\Debug\net9.0\TokenBasedAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Security and Authentication .NET\Token Based Authentication\TokenBasedAuthentication\obj\Debug\net9.0\TokenBasedAuthentication.AssemblyInfoInputs.cache
+D:\Security and Authentication .NET\Token Based Authentication\TokenBasedAuthentication\obj\Debug\net9.0\TokenBasedAuthentication.AssemblyInfo.cs
+D:\Security and Authentication .NET\Token Based Authentication\TokenBasedAuthentication\obj\Debug\net9.0\TokenBasedAuthentication.csproj.CoreCompileInputs.cache
+D:\Security and Authentication .NET\Token Based Authentication\TokenBasedAuthentication\obj\Debug\net9.0\TokenBasedAuthentication.MvcApplicationPartsAssemblyInfo.cache
