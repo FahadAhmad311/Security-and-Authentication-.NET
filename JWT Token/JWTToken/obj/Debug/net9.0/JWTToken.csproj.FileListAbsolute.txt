@@ -1,0 +1,7 @@
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.csproj.AssemblyReference.cache
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.AssemblyInfoInputs.cache
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.AssemblyInfo.cs
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.csproj.CoreCompileInputs.cache
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.MvcApplicationPartsAssemblyInfo.cache
+D:\Security and Authentication .NET\JWT Token\JWTToken\obj\Debug\net9.0\JWTToken.sourcelink.json
